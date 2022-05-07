@@ -6,11 +6,11 @@ As part of our WPL MINI Project, Shruti & I  made a Hospital Management System
 Find the deployed project at : https://hospital-sys.herokuapp.com/
 ## Demo Credentials
 
-**Doctor login: 
+**Doctor login:** 
 * Email - cristina.g@hospital.in
 * Password - doc1@kjsce
 
-**Nurse login: 
+**Nurse login:**
 * Email - ava.m@hospital.in
 * Password - nurse1@kjsce
 
