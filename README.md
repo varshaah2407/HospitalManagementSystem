@@ -16,7 +16,7 @@ Find the deployed project at : https://hospital-sys.herokuapp.com/
 
 GitHub project at : https://github.com/varshaah2407/HospitalManagementSystem/
 
-*Note: Admin credentials have not been provided. For test drive of the product, contact me at varshaah.shashidhar@gmail.com
+**Note: Admin credentials have not been provided. For test drive of the product, contact me at varshaah.shashidhar@gmail.com**
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
