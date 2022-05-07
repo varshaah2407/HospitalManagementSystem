@@ -5,9 +5,9 @@ As part of our WPL MINI Project, Shruti & I  made a Hospital Management System
 The Hospital Management System provides an end-to-end solution for the efficient management of a hospital. The solution enables the management of doctors, nurses, and registered patients. The solution provides a seamless end-user experience for consumers: admin, doctors, and nurses. 
 
 Some of the key features for Admin are: 
-•	Custom Dashboard for the board and management
-•	Tariff rate card for consultation, Surgery, rooms etc
-•	Employee Salary
+*	Custom Dashboard for the board and management
+*	Tariff rate card for consultation, Surgery, rooms etc
+*	Employee Salary
 
 Some of the key features for doctors are: 
 *	His/her appointments
